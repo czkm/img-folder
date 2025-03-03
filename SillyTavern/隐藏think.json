@@ -1,0 +1,18 @@
+{
+    "id": "420cdcd1-53bf-47d0-8b32-0ac8751b6cb7",
+    "scriptName": "隐藏think",
+    "findRegex": "/(<think>.*?</think>|<thinking>.*?</thinking>)/gs",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        1,
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
